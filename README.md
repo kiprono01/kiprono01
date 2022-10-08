@@ -1,5 +1,6 @@
-Hi there 👋
+Hi there 👋</br>
 <br>My name is Kiprono. I am broadly interested in data science, machine learning and computer vision.</br>
+<br>[Twitter](https://twitter.com/Kiprono__) | [Blog](https://dev.to/kiprono)
 
 
 <!---
